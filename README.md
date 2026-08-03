@@ -56,7 +56,7 @@ flowchart TD
 ## Quickstart
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/murafi99/chronos-prototype.git
 cd chronos-prototype
 pip install -r requirements.txt
 
